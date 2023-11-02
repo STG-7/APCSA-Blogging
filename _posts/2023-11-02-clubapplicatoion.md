@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Del Norte App DevTeam Club Presentatio
+title: Del Norte App DevTeam Club Presentation
 description: Club Presentation
 type: plans
 courses: { 'csa': {'week':11} }
