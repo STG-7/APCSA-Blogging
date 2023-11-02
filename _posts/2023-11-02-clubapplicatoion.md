@@ -8,6 +8,7 @@ type: plans
 courses: { 'csa': {'week':2} }
 ---
 
+Pitch idea of internship first (delete this, just a reminder)
 ## Club Goals
 
 Supportive and Collaborative environment where programmers (new or old) can work in project environment creating apps that can be launched on App Store, public domains, and  have practical usage (helping the school, community, monetary, etc.).
