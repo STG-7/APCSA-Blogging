@@ -25,7 +25,8 @@ Goal: Make a STUDENTS LIFE EASIER
 
 ### Feature 1 (Connecting + Making Friends):
 - Connect students via the app to meet up in person in lunch, tutorials, or after school.
-- Kind of a dating app, but for friends
+- Kind of a dating app, but for 
+- Maybe connect with Mending Matters?
 
 ### Feature 2 (Planner + Schedule):
 - Planner and Schedule for person's courses
@@ -36,3 +37,5 @@ Goal: Make a STUDENTS LIFE EASIER
 - Rate the day in sale of 1-5
 - Data manipulation in terms of stats 
 - Anxiety, Stress levels, any big tests coming up this week?
+
+
