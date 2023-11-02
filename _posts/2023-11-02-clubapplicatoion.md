@@ -21,6 +21,8 @@ Supportive and Collaborative environment where programmers (new or old) can work
 
 ## Outline of App
 
+Goal: Make a STUDENTS LIFE EASIER
+
 ### Feature 1 (Connecting + Making Friends):
 - Connect students via the app to meet up in person in lunch, tutorials, or after school.
 - Kind of a dating app, but for friends
@@ -29,7 +31,7 @@ Supportive and Collaborative environment where programmers (new or old) can work
 - Planner and Schedule for person's courses
 - Helps student stay organized
 
-### Feature 3 (Reflection + Mental Health Check)
+### Feature 3 (Daily Reflection + Mental Health Check)
 - Everyday
 - Rate the day in sale of 1-5
 - Data manipulation in terms of stats 
