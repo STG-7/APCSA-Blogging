@@ -29,7 +29,8 @@ Supportive and Collaborative environment where programmers (new or old) can work
 - Planner and Schedule for person's courses
 - Helps student stay organized
 
-### Feature 3 (Accomplishments + Mental Health Check)
+### Feature 3 (Reflection + Mental Health Check)
+- Everyday
 - Rate the day in sale of 1-5
 - Data manipulation in terms of stats 
 - Anxiety, Stress levels, any big tests coming up this week?
