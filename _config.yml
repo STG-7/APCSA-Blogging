@@ -1,8 +1,8 @@
 title: CSAPages
-description: CSA Pages for Shaurya Goel
+description: CSA Blogging for Shaurya Goel
 owner_name: Shaurya Goel
 github_username: STG-7
-baseurl: "/CSAPages"
+baseurl: "/CSABlogging"
 # remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
