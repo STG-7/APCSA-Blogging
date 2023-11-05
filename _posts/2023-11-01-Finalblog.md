@@ -4,8 +4,8 @@ comments: false
 layout: post
 title: Final Trimester Reflection
 description: Final Trimester Reflectoin - Individua Review
-type: plans
-courses: { 'csa': {'week':11} }
+type: hacks
+courses: { 'csa': {'week':12} }
 ---
 
 ## Things I have Learned

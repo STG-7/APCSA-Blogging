@@ -5,7 +5,7 @@ layout: post
 title: Del Norte App DevTeam Club Presentation
 description: Club Presentation
 type: plans
-courses: { 'csa': {'week':2} }
+courses: { 'csa': {'week':12} }
 ---
 
 Pitch idea of internship first (delete this, just a reminder)
