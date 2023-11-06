@@ -10,6 +10,15 @@ courses: { 'csa': {'week':12} }
 
 # Individual Code
 
+## Bakcend Developer, Scrum Process
+
+As a backend developer I did the bulk of the backend, helping out on pretty much all of the feature's and initializing the database, modelinit.java. I also helped with the frontend when necessary, especially the database (data.html)
+
+Stayed on Track through:
+- Issues
+- Discord
+- Slack
+
 ## Backend - Cancer API and Quotes API
 
 ### Cancer.java
